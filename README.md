@@ -12,6 +12,8 @@ This application is an Analytics suite suite for an imaginary company selling po
 
 ## Setup
 
+Download records_w_diag_icd10-8.csv at https://physionet.org/content/mimiciv/ and put it to ./import/csv/raw.
+
 Rename `.env.example` file to `.env` and set your desired password. Remember to never commit files containing passwords or any other sensitive information.
 
 ### System requirements
